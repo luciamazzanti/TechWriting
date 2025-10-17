@@ -1,13 +1,8 @@
-\# Titolo della nota
-
-
+# Titolo della nota
 
 ---
 
-
-
 Ciao questa è una nota in Markdown
-
 
 
 Questa è una lista semplice:
@@ -29,7 +24,7 @@ Questa è una lista numerata:
 Questa è una tabella:
 
 | Nome | Cognome | Mail |
-
+| ---- | ------- | ---- |
 | Lucia | Mazzanti | luciamazzanti4@gmail.com |
 
 
