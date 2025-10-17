@@ -29,5 +29,5 @@ Questa è una tabella:
 
 
 
-Questo è un link \[testo-desc-del-link](https://google.com)
+Questo è un link [testo-desc-del-link](https://google.com)
 
